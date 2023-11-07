@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "Nice Mice",
+    "slug": "NiceMice",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "notification": {
+      "icon": "./assets/notif.png",
+      "color": "#FFA722"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notif.png",
+          "color": "#FFA722"
+        }
+      ]
+    ],
+    "splash": {
+      "image": "./assets/splashscreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nicemice"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFA722"
+      },
+      "package": "com.nicemice",
+      "versionCode": 2,
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/89e44623-bb8f-45d0-88fb-8b0b6e6e833b"
+    }
+  }
+}

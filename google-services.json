@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "769204381453",
+    "firebase_url": "https://nice-mice-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nice-mice",
+    "storage_bucket": "nice-mice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769204381453:android:3a798c853a63c6ddb0b244",
+        "android_client_info": {
+          "package_name": "com.nicemice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769204381453-dbb002kked48kv14mkrh4ae5gn2lqam4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcm2lDKMnBTvop9EoNwZsjpnIpNLA6JfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769204381453-9i653e7f17q1jo0j116ktn9e9ub22k9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769204381453:android:c85da29588202f91b0b244",
+        "android_client_info": {
+          "package_name": "com.nicemice.NiceMiceAndV2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769204381453-50p7istjhcq9dnkp00mctehe51nt2m8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nicemice.NiceMiceAndV2",
+            "certificate_hash": "d896e36eab7496b5db01072b389b585c9004c705"
+          }
+        },
+        {
+          "client_id": "769204381453-hkj7794ncu5s095rkvn66f7l2qj42gq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nicemice.NiceMiceAndV2",
+            "certificate_hash": "c0af3522b3cc045938989c4278d8e245a8a2fd05"
+          }
+        },
+        {
+          "client_id": "769204381453-lrlnj6383u5k59orlf84l1qjpbipr2bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nicemice.NiceMiceAndV2",
+            "certificate_hash": "6091a339fcb36301f5684d370201693988f6b74f"
+          }
+        },
+        {
+          "client_id": "769204381453-dbb002kked48kv14mkrh4ae5gn2lqam4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcm2lDKMnBTvop9EoNwZsjpnIpNLA6JfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769204381453-9i653e7f17q1jo0j116ktn9e9ub22k9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
