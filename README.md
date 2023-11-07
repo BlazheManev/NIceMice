@@ -12,7 +12,7 @@ In NiceMice, children earn coins by completing tasks. These coins serve as rewar
 ### Stripe Payment Integration
 Our app includes Stripe Payment integration, allowing parents to manage allowances and financial rewards seamlessly. With this feature, you can easily allocate money or gifts to your child's account, reinforcing good behavior and responsibility.
 
-###Getting Started
+### Getting Started
 - Download the NiceMice app from your app store.
 - Sign up and create a parent account.
 - Add your child's profile.
