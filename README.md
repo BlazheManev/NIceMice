@@ -1,4 +1,4 @@
-########### NiceMice Parenting App Readme
+###### NiceMice Parenting App Readme
 Introduction
 Welcome to NiceMice, the ultimate parenting app designed to facilitate a meaningful parent-child relationship through task-based engagement. NiceMice is a unique platform that encourages children to complete tasks, earn coins, and engage in character-driven activities. With the implementation of Stripe Payment and OpenAI, we've taken the traditional parenting app to the next level.
 
